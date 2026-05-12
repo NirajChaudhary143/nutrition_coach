@@ -25,7 +25,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:quote {"style":{"typography":{"fontSize":"16px","lineHeight":"1.7","fontStyle":"normal","fontWeight":"400"},"color":{"text":"#1E293B"},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"width":"0"}}} -->
-<blockquote class="wp-block-quote" style="border-width:0;color:#1E293B;margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:16px;font-style:normal;font-weight:400;line-height:1.7">"I lost 14 kg in 12 weeks without ever feeling deprived. Sarah understood my lifestyle and built a plan that actually fit around my busy schedule. This is the first diet I've ever stuck to."<cite style="font-size:14px;color:#64748B;font-style:normal;display:block;margin-top:16px;">— Emma R., Weight Management client</cite></blockquote>
+<blockquote class="wp-block-quote" style="border-width:0;color:var(--wp--preset--color--ink-2);margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:16px;font-style:normal;font-weight:400;line-height:1.7">"I lost 14 kg in 12 weeks without ever feeling deprived. Sarah understood my lifestyle and built a plan that actually fit around my busy schedule. This is the first diet I've ever stuck to."<cite style="font-size:14px;color:#64748B;font-style:normal;display:block;margin-top:16px;">— Emma R., Weight Management client</cite></blockquote>
 <!-- /wp:quote --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -37,7 +37,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:quote {"style":{"typography":{"fontSize":"16px","lineHeight":"1.7","fontStyle":"normal","fontWeight":"400"},"color":{"text":"#1E293B"},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"width":"0"}}} -->
-<blockquote class="wp-block-quote" style="border-width:0;color:#1E293B;margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:16px;font-style:normal;font-weight:400;line-height:1.7">"My IBS symptoms have reduced by 80% in just 8 weeks. Priya's gut health program was a game-changer — finally someone who actually listened and gave me a real, practical solution."<cite style="font-size:14px;color:#64748B;font-style:normal;display:block;margin-top:16px;">— Marcus T., Gut Health client</cite></blockquote>
+<blockquote class="wp-block-quote" style="border-width:0;color:var(--wp--preset--color--ink-2);margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:16px;font-style:normal;font-weight:400;line-height:1.7">"My IBS symptoms have reduced by 80% in just 8 weeks. Priya's gut health program was a game-changer — finally someone who actually listened and gave me a real, practical solution."<cite style="font-size:14px;color:#64748B;font-style:normal;display:block;margin-top:16px;">— Marcus T., Gut Health client</cite></blockquote>
 <!-- /wp:quote --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -49,7 +49,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:quote {"style":{"typography":{"fontSize":"16px","lineHeight":"1.7","fontStyle":"normal","fontWeight":"400"},"color":{"text":"#1E293B"},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"width":"0"}}} -->
-<blockquote class="wp-block-quote" style="border-width:0;color:#1E293B;margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:16px;font-style:normal;font-weight:400;line-height:1.7">"Working with James completely transformed my marathon training. My finishing time improved by 22 minutes and I never hit the wall again. Sports nutrition done right."<cite style="font-size:14px;color:#64748B;font-style:normal;display:block;margin-top:16px;">— Layla A., Sports Nutrition client</cite></blockquote>
+<blockquote class="wp-block-quote" style="border-width:0;color:var(--wp--preset--color--ink-2);margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:16px;font-style:normal;font-weight:400;line-height:1.7">"Working with James completely transformed my marathon training. My finishing time improved by 22 minutes and I never hit the wall again. Sports nutrition done right."<cite style="font-size:14px;color:#64748B;font-style:normal;display:block;margin-top:16px;">— Layla A., Sports Nutrition client</cite></blockquote>
 <!-- /wp:quote --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>

@@ -46,8 +46,8 @@
 <hr class="wp-block-separator has-text-color has-rule-color has-alpha-channel-opacity has-background" style="background-color:#E2E8F0;color:#E2E8F0"/>
 <!-- /wp:separator -->
 
-<!-- wp:list {"style":{"typography":{"fontSize":"14px","lineHeight":"1.7"},"color":{"text":"#1E293B"},"spacing":{"padding":{"left":"0"},"margin":{"top":"0","bottom":"0"}}},"className":"nc-feature-list"} -->
-<ul class="has-text-color nc-feature-list" style="color:#1E293B;font-size:14px;line-height:1.7;margin-top:0;margin-bottom:0;padding-left:0"><!-- wp:list-item {"content":"✅ Initial nutrition assessment"} -->
+<!-- wp:list {"style":{"typography":{"fontSize":"14px","lineHeight":"1.7"},"color":{"text":"var:preset|color|ink-2"},"spacing":{"padding":{"left":"0"},"margin":{"top":"0","bottom":"0"}}},"className":"nc-feature-list"} -->
+<ul class="has-text-color nc-feature-list" style="color:var(--wp--preset--color--ink-2);font-size:14px;line-height:1.7;margin-top:0;margin-bottom:0;padding-left:0"><!-- wp:list-item {"content":"✅ Initial nutrition assessment"} -->
 <li>✅ Initial nutrition assessment</li>
 <!-- /wp:list-item -->
 <!-- wp:list-item {"content":"✅ Personalised meal plan"} -->
@@ -65,8 +65,8 @@
 <!-- /wp:list -->
 
 <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"auto"}}}} -->
-<div class="wp-block-buttons" style="margin-top:auto"><!-- wp:button {"style":{"border":{"radius":"8px","color":"#E2E8F0","width":"1px"},"typography":{"fontSize":"14px","fontWeight":"600"},"spacing":{"padding":{"top":"12px","bottom":"12px","left":"20px","right":"20px"}},"color":{"background":"#FFFFFF","text":"#0F172A"}},"width":100} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-text-color has-background has-border-color has-custom-font-size wp-element-button" style="border-color:#E2E8F0;border-width:1px;border-radius:8px;color:#0F172A;background-color:#FFFFFF;padding-top:12px;padding-right:20px;padding-bottom:12px;padding-left:20px;font-size:14px;font-weight:600">Get started</a></div>
+<div class="wp-block-buttons" style="margin-top:auto"><!-- wp:button {"textColor":"ink","backgroundColor":"base","style":{"border":{"radius":"8px","color":"var:preset|color|rule","width":"1px"},"typography":{"fontSize":"14px","fontWeight":"600"},"spacing":{"padding":{"top":"12px","bottom":"12px","left":"20px","right":"20px"}}},"width":100} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-ink-color has-base-background-color has-text-color has-background has-border-color has-custom-font-size wp-element-button" style="border-color:var(--wp--preset--color--rule);border-width:1px;border-radius:8px;padding-top:12px;padding-right:20px;padding-bottom:12px;padding-left:20px;font-size:14px;font-weight:600">Get started</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
@@ -150,8 +150,8 @@
 <hr class="wp-block-separator has-alpha-channel-opacity" style="background-color:#E2E8F0;color:#E2E8F0"/>
 <!-- /wp:separator -->
 
-<!-- wp:list {"style":{"typography":{"fontSize":"14px","lineHeight":"1.7"},"color":{"text":"#1E293B"},"spacing":{"padding":{"left":"0"},"margin":{"top":"0","bottom":"0"}}}} -->
-<ul class="has-text-color" style="color:#1E293B;font-size:14px;line-height:1.7;margin-top:0;margin-bottom:0;padding-left:0"><!-- wp:list-item {"content":"✅ Everything in Professional"} -->
+<!-- wp:list {"style":{"typography":{"fontSize":"14px","lineHeight":"1.7"},"color":{"text":"var:preset|color|ink-2"},"spacing":{"padding":{"left":"0"},"margin":{"top":"0","bottom":"0"}}}} -->
+<ul class="has-text-color" style="color:var(--wp--preset--color--ink-2);font-size:14px;line-height:1.7;margin-top:0;margin-bottom:0;padding-left:0"><!-- wp:list-item {"content":"✅ Everything in Professional"} -->
 <li>✅ Everything in Professional</li>
 <!-- /wp:list-item -->
 <!-- wp:list-item {"content":"✅ Unlimited coaching calls"} -->
@@ -169,8 +169,8 @@
 <!-- /wp:list -->
 
 <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"auto"}}}} -->
-<div class="wp-block-buttons" style="margin-top:auto"><!-- wp:button {"style":{"border":{"radius":"8px","color":"#E2E8F0","width":"1px"},"typography":{"fontSize":"14px","fontWeight":"600"},"spacing":{"padding":{"top":"12px","bottom":"12px","left":"20px","right":"20px"}},"color":{"background":"#FFFFFF","text":"#0F172A"}},"width":100} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-text-color has-background has-border-color has-custom-font-size wp-element-button" style="border-color:#E2E8F0;border-width:1px;border-radius:8px;color:#0F172A;background-color:#FFFFFF;padding-top:12px;padding-right:20px;padding-bottom:12px;padding-left:20px;font-size:14px;font-weight:600">Get started</a></div>
+<div class="wp-block-buttons" style="margin-top:auto"><!-- wp:button {"textColor":"ink","backgroundColor":"base","style":{"border":{"radius":"8px","color":"var:preset|color|rule","width":"1px"},"typography":{"fontSize":"14px","fontWeight":"600"},"spacing":{"padding":{"top":"12px","bottom":"12px","left":"20px","right":"20px"}}},"width":100} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-ink-color has-base-background-color has-text-color has-background has-border-color has-custom-font-size wp-element-button" style="border-color:var(--wp--preset--color--rule);border-width:1px;border-radius:8px;padding-top:12px;padding-right:20px;padding-bottom:12px;padding-left:20px;font-size:14px;font-weight:600">Get started</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

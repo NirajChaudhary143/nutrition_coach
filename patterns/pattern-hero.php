@@ -25,8 +25,8 @@
 <div class="wp-block-button"><a class="wp-block-button__link has-base-color has-accent-background-color has-text-color has-background has-custom-font-size wp-element-button" style="border-radius:8px;padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;font-size:15px;font-weight:600">Book a Free Session</a></div>
 <!-- /wp:button -->
 
-<!-- wp:button {"style":{"border":{"radius":"8px","color":"#E2E8F0","width":"1px"},"typography":{"fontSize":"15px","fontWeight":"500"},"spacing":{"padding":{"top":"14px","bottom":"14px","left":"28px","right":"28px"}},"color":{"background":"#FFFFFF","text":"#0F172A"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background has-border-color has-custom-font-size wp-element-button" style="border-color:#E2E8F0;border-width:1px;border-radius:8px;color:#0F172A;background-color:#FFFFFF;padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;font-size:15px;font-weight:500">Explore Programs</a></div>
+<!-- wp:button {"textColor":"ink","backgroundColor":"base","style":{"border":{"radius":"8px","color":"var:preset|color|rule","width":"1px"},"typography":{"fontSize":"15px","fontWeight":"500"},"spacing":{"padding":{"top":"14px","bottom":"14px","left":"28px","right":"28px"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-ink-color has-base-background-color has-text-color has-background has-border-color has-custom-font-size wp-element-button" style="border-color:var(--wp--preset--color--rule);border-width:1px;border-radius:8px;padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;font-size:15px;font-weight:500">Explore Programs</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->

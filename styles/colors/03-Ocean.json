@@ -1,0 +1,71 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.8/theme.json",
+	"version": 3,
+	"title": "Ocean",
+	"settings": {
+		"color": {
+			"palette": [
+				{ "slug": "ink",         "name": "Ink",         "color": "#0C1A2E" },
+				{ "slug": "ink-2",       "name": "Ink Soft",    "color": "#1E3A5F" },
+				{ "slug": "muted",       "name": "Muted",       "color": "#5B7FA6" },
+				{ "slug": "rule",        "name": "Rule",        "color": "#C8DCF0" },
+				{ "slug": "surface",     "name": "Surface",     "color": "#EFF6FF" },
+				{ "slug": "base",        "name": "Base",        "color": "#F8FBFF" },
+				{ "slug": "accent",      "name": "Accent",      "color": "#0284C7" },
+				{ "slug": "accent-dark", "name": "Accent Dark", "color": "#0C4A6E" }
+			]
+		}
+	},
+	"styles": {
+		"color": {
+			"background": "var(--wp--preset--color--base)",
+			"text": "var(--wp--preset--color--ink)"
+		},
+		"elements": {
+			"h1": { "color": { "text": "var(--wp--preset--color--ink)" } },
+			"h2": { "color": { "text": "var(--wp--preset--color--ink)" } },
+			"h3": { "color": { "text": "var(--wp--preset--color--ink)" } },
+			"link": {
+				"color": { "text": "var(--wp--preset--color--accent)" }
+			},
+			"button": {
+				"color": {
+					"background": "var(--wp--preset--color--accent)",
+					"text": "var(--wp--preset--color--base)"
+				},
+				":hover": {
+					"color": {
+						"background": "color-mix(in srgb, var(--wp--preset--color--accent) 85%, transparent)",
+						"text": "var(--wp--preset--color--base)"
+					}
+				}
+			}
+		},
+		"blocks": {
+			"core/button": {
+				"color": {
+					"background": "var:preset|color|accent",
+					"text": "var:preset|color|base"
+				},
+				":hover": {
+					"color": {
+						"background": "color-mix(in srgb, var(--wp--preset--color--accent) 85%, transparent)",
+						"text": "var:preset|color|base"
+					}
+				}
+			},
+			"core/code": {
+				"color": {
+					"background": "var:preset|color|surface",
+					"text": "var:preset|color|ink-2"
+				}
+			},
+			"core/separator": {
+				"color": { "text": "var:preset|color|rule" }
+			}
+		},
+		"border": {
+			"color": "var:preset|color|rule"
+		}
+	}
+}
