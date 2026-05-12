@@ -1,0 +1,66 @@
+/*
+Theme Name: Nutrition Coach
+Theme URI: https://themegrill.com/themes/nutrition-coach/
+Author: ThemeGrill
+Author URI: https://themegrill.com/
+Description: Nutrition Coach is a modern, fully customizable WordPress block theme built for nutrition coaches, wellness professionals, health coaches, and fitness experts. Designed with Full Site Editing capabilities and fully compatible with AllCoach — the all-in-one coaching management plugin. Launch your coaching practice online, manage programs, clients, and appointments — all without touching code.
+Requires at least: 6.5
+Tested up to: 6.9
+Requires PHP: 8.0
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: nutrition-coach
+Tags: health, wellness, coaching, nutrition, full-site-editing, block-patterns, block-styles, custom-colors, custom-menu, custom-logo, editor-style, featured-images, one-column, two-columns, translation-ready, wide-blocks
+*/
+
+html,
+body,
+.wp-block-post-author__avatar,
+.wp-block-social-links,
+.wp-block-post-excerpt__excerpt,
+.wp-block-separator {
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body {
+	overflow-x: hidden;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+html {
+	box-sizing: border-box;
+	font-smooth: antialiased;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: antialiased;
+}
+
+body {
+	font-smooth: auto;
+	-webkit-font-smoothing: inherit;
+}
+
+.wp-site-blocks > .wp-block-group {
+	margin-block-start: 0;
+}
+
+.wp-block-columns {
+	margin-block-start: 0;
+	margin-block-end: 0;
+}
+
+.wp-block-cover {
+	margin-block-start: 0;
+	margin-block-end: 0;
+}
+
+.no-margin-top {
+	margin-top: 0 !important;
+}

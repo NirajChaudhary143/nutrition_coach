@@ -1,0 +1,33 @@
+<!-- wp:template-part {"slug":"header","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)">
+
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--40)">
+<!-- wp:post-terms {"term":"category","style":{"typography":{"fontSize":"12px","fontWeight":"600","textTransform":"uppercase","letterSpacing":"0.05em"},"color":{"text":"#16A34A"},"spacing":{"margin":{"bottom":"12px"}}}} /-->
+<!-- wp:post-title {"level":1,"style":{"typography":{"fontSize":"48px","fontWeight":"700","lineHeight":"1.1","letterSpacing":"-0.03em"}}} /-->
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"},"style":{"spacing":{"margin":{"top":"16px","bottom":"0"},"blockGap":"16px"}}} -->
+<div class="wp-block-group" style="margin-top:16px;margin-bottom:0">
+<!-- wp:post-author {"showAvatar":true,"avatarSize":32,"style":{"typography":{"fontSize":"14px"},"color":{"text":"#64748B"}}} /-->
+<!-- wp:post-date {"style":{"typography":{"fontSize":"14px"},"color":{"text":"#64748B"}}} /-->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:post-featured-image {"style":{"border":{"radius":"12px"},"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}}} /-->
+
+<!-- wp:post-content {"layout":{"type":"constrained"}} /-->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"0"},"margin":{"top":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--50)">
+<!-- wp:post-navigation-link {"type":"previous","label":"← Previous"} /-->
+<!-- wp:post-navigation-link {"type":"next","label":"Next →"} /-->
+</div>
+<!-- /wp:group -->
+
+</main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","tagName":"footer"} /-->
