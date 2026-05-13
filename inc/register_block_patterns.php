@@ -44,6 +44,12 @@ function nutrition_coach_register_block_patterns() {
 			'banner'         => array(
 				'label' => __( 'Banner', 'nutrition-coach' ),
 			),
+			'about'          => array(
+				'label' => __( 'About', 'nutrition-coach' ),
+			),
+			'contact'        => array(
+				'label' => __( 'Contact', 'nutrition-coach' ),
+			),
 		)
 	);
 

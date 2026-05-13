@@ -468,6 +468,16 @@
       "name": "page-no-title",
       "title": "Page No Title",
       "postTypes": ["page"]
+    },
+    {
+      "name": "page-about",
+      "title": "Page: About Us",
+      "postTypes": ["page"]
+    },
+    {
+      "name": "page-contact",
+      "title": "Page: Contact Us",
+      "postTypes": ["page"]
     }
   ]
 }
